@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1768837425 source:c:\users\jakub\onedrive\dokumenty\projektwdp\gameranker\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	"globals.h"
+	"zaladuj.h"
+	"wyswietlWszystko.h"
+	"sortowanieWedlugOceny.h"
+	"sortowanieWedlugGatunku.h"
+	"topX.h"
+
+1768163433 source:c:\users\jakub\onedrive\dokumenty\projektwdp\gameranker\funkcje.cpp
+
+1768163433 source:c:\users\jakub\onedrive\dokumenty\projektwdp\gameranker\gra.cpp
+
+1768608832 source:c:\users\jakub\onedrive\dokumenty\projektwdp\gameranker\globals.cpp
+	"globals.h"
+
+1768608832 c:\users\jakub\onedrive\dokumenty\projektwdp\gameranker\globals.h
+	"gra.h"
+
+1768608832 c:\users\jakub\onedrive\dokumenty\projektwdp\gameranker\gra.h
+	<string>
+
+1768608832 source:c:\users\jakub\onedrive\dokumenty\projektwdp\gameranker\sortowaniewedlugoceny.cpp
+	<algorithm>
+	"globals.h"
+	"sortowanieWedlugOceny.h"
+
+1768608832 c:\users\jakub\onedrive\dokumenty\projektwdp\gameranker\sortowaniewedlugoceny.h
+
+1768608832 source:c:\users\jakub\onedrive\dokumenty\projektwdp\gameranker\topx.cpp
+	<iostream>
+	"globals.h"
+	"topX.h"
+
+1768608832 c:\users\jakub\onedrive\dokumenty\projektwdp\gameranker\topx.h
+
+1768608832 source:c:\users\jakub\onedrive\dokumenty\projektwdp\gameranker\wyswietlwszystko.cpp
+	<iostream>
+	"globals.h"
+	"wyswietlWszystko.h"
+
+1768608832 c:\users\jakub\onedrive\dokumenty\projektwdp\gameranker\wyswietlwszystko.h
+
+1768608832 source:c:\users\jakub\onedrive\dokumenty\projektwdp\gameranker\zaladuj.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<sstream>
+	"globals.h"
+	"zaladuj.h"
+
+1768608832 c:\users\jakub\onedrive\dokumenty\projektwdp\gameranker\zaladuj.h
+	<string>
+
+1768837416 source:c:\users\jakub\onedrive\dokumenty\projektwdp\gameranker\sortowaniewedluggatunku.cpp
+	<algorithm>
+	"globals.h"
+	"sortowanieWedlugGatunku.h"
+
+1768608832 c:\users\jakub\onedrive\dokumenty\projektwdp\gameranker\sortowaniewedluggatunku.h
+

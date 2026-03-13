@@ -1,0 +1,25 @@
+title,Genre,Rating,Year
+The Witcher 3,RPG,9.2,2015
+Grand Theft Auto 5,Action,9.7,2013
+Hearts of Iron IV,Strategy,8.3,2016
+Red Dead Redemption 2,Action,9.7,2018
+Elden Ring,RPG,9.6,2022
+Portal 2,Action,9.5,2011
+Baldur's Gate 3,RPG,9.6,2023
+Dark Souls III,RPG,8.9,2016
+Hollow Knight: Silksong,Action,9.0,2025
+Cyberpunk 2077,RPG,8.6,2020
+Workers & Resourcers: Soviet Republic,Strategy,8.1,2024
+God of War: Ragnarok,Action,9.4,2022
+Grand Theft Auto: San Andreas,Action,9.5,2004
+The Legend of Zelda: Tears of the Kingdom,RPG,9.6,2023
+Battlefield 6,FPS,8.3,2025
+Resident Evil 4,Action,9.6,2004
+Mafia II,Action,7.4,2010
+Napoleon: Total War,Strategy,8.1,2010
+the Great War: Western Front,Strategy,7.2,2023
+Cities: Skylines,Strategy,8.5,2015
+Call Of Duty: Modern Warfare 2,FPS,9.4,2009
+Grand Theft Auto IV,Action,9.8,2008
+Battlefield 3,FPS,8.9,2011
+Medal of Honor,FPS,7.4,2010
